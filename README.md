@@ -2,7 +2,7 @@
 
 Informazioni sui contagi Covid-19
 * rappresentazione grafica dei dati
-  * [nuovi contagi Sicilia](ContagiSiciliaVer01.ipynb)
+  * [nuovi contagi Sicilia](grafico-Sicilia.jpg)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/DataLab/master?filepath=ContagiSicilia.ipynb)
 
