@@ -7,6 +7,7 @@ Informazioni sui contagi Covid-19
 &nbsp;
 
  * read the code with **Binder**
+ 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/POSS-UniMe/DataLab/master?filepath=ContagiSicilia.ipynb)
 
 ## Riferimenti
