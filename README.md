@@ -7,7 +7,5 @@ Informazioni sui contagi Covid-19
 
 &nbsp;
 
-&nbsp;
-
 ### Riferimenti
 Dati pubblicati quotidianamente dal [Giornale di Sicilia](https://gds.it/)
