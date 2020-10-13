@@ -1,6 +1,6 @@
 # DataLab
 
-1. ## Coronavirus Sicilia
+## Coronavirus Sicilia
 Informazioni sui contagi Covid-19
 * rappresentazione grafica dei dati
   * [nuovi contagi Sicilia](covid-Sicilia/grafico-Sicilia.jpg)
