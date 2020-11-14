@@ -8,7 +8,7 @@ Informazioni sui contagi Covid-19
 
 &nbsp;
 
-## Riferimenti
+### Riferimenti
 Dati pubblicati quotidianamente dal [Giornale di Sicilia](https://gds.it/)
 
 Dati [bollettino del Ministero della Salute](http://www.salute.gov.it/portale/nuovocoronavirus/homeNuovoCoronavirus.jsp)
