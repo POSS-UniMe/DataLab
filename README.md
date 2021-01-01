@@ -8,8 +8,6 @@ Informazioni sui contagi Covid-19
   * [notebook Jupyter (NBviewer)](https://nbviewer.jupyter.org/github/POSS-UniMe/DataLab/blob/master/covid-Sicilia/ContagiSiciliaVer01.ipynb)
   
 ***
-
-*
   * ![incremento casi Messina](covid-Sicilia/grafico-Messina.jpg)
   * [incremento casi Messina](covid-Sicilia/grafico-Messina.jpg)
   * [notebook Jupyter (NBviewer)](https://nbviewer.jupyter.org/github/POSS-UniMe/DataLab/blob/master/covid-Sicilia/ContagiMessina.ipynb)
